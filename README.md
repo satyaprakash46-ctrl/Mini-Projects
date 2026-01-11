@@ -1,2 +1,2 @@
-# Mini-Projects
-List of mini projects developed by me
+# Mini Projects
+List of mini projects developed by me.
